@@ -2,7 +2,7 @@
      local Players = game:GetService("Players")
 
      local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-     local Window = Library.CreateLib("Prison Life", "DarkTheme")
+     local Window = Library.CreateLib("Prison Life", "GrapeTheme")
              
      -- Main
 
